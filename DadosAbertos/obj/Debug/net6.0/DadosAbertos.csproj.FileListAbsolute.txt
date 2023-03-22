@@ -1,0 +1,15 @@
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\bin\Debug\net6.0\DadosAbertos.exe
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\bin\Debug\net6.0\DadosAbertos.deps.json
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\bin\Debug\net6.0\DadosAbertos.runtimeconfig.json
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\bin\Debug\net6.0\DadosAbertos.dll
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\bin\Debug\net6.0\DadosAbertos.pdb
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.csproj.AssemblyReference.cache
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.AssemblyInfoInputs.cache
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.AssemblyInfo.cs
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.csproj.CoreCompileInputs.cache
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.dll
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\refint\DadosAbertos.dll
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.pdb
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\DadosAbertos.genruntimeconfig.cache
+C:\Users\joao.brito\source\repos\DadosAbertos\DadosAbertos\obj\Debug\net6.0\ref\DadosAbertos.dll
