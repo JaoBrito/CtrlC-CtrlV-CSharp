@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao.brito\\source\\repos\\DadosAbertos\\DadosAbertos\\DadosAbertos.csproj": {}
+    "C:\\Users\\User\\Desktop\\CtrlC-CtrlV-CSharp\\DadosAbertos\\DadosAbertos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao.brito\\source\\repos\\DadosAbertos\\DadosAbertos\\DadosAbertos.csproj": {
+    "C:\\Users\\User\\Desktop\\CtrlC-CtrlV-CSharp\\DadosAbertos\\DadosAbertos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao.brito\\source\\repos\\DadosAbertos\\DadosAbertos\\DadosAbertos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CtrlC-CtrlV-CSharp\\DadosAbertos\\DadosAbertos.csproj",
         "projectName": "DadosAbertos",
-        "projectPath": "C:\\Users\\joao.brito\\source\\repos\\DadosAbertos\\DadosAbertos\\DadosAbertos.csproj",
-        "packagesPath": "C:\\Users\\joao.brito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao.brito\\source\\repos\\DadosAbertos\\DadosAbertos\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\CtrlC-CtrlV-CSharp\\DadosAbertos\\DadosAbertos.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CtrlC-CtrlV-CSharp\\DadosAbertos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joao.brito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

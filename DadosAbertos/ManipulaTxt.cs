@@ -1,8 +1,8 @@
 ﻿using System;
 using System.IO;
 
-var path = @"C:\Users\joao.brito\Desktop\original.EMPRECSV";
-var newPath = @"C:\Users\joao.brito\Desktop\DadosFormatados\editado";
+var path = @"C:\Users\user\Desktop\original.EMPRECSV";
+var newPath = @"C:\Users\user\Desktop\DadosFormatados\editado";
 var contador = 1;
 
 try
@@ -10,10 +10,20 @@ try
     using (StreamReader sr = new StreamReader(path))
     {
         StreamWriter sw = new StreamWriter(newPath + contador.ToString() + ".csv");
-        for (int count = 0; count < 100; count++)
+        for (int count = 0; count < 13; count++)
         {
-            sw.WriteLine("cnpj_basico;razao_social;natureza_jur;qual_resp;capital_social;porta_empresa;ent_fed");
-            for (int i = 0; i < 10000; i++)
+             if(count != 0){
+             sw.WriteLine("cnpj_basico;razao_social;natureza_jur;qual_resp;capital_social;porta_empresa;ent_fed");
+            for (int i = 0; i < 1000000; i++)
+            {
+                var texto = sr.ReadLine();
+                sw.WriteLine(texto);
+            }
+        sw.Close();
+        contador++;
+        sw = new StreamWriter(newPath + contador.ToString() + ".csv");   
+           } else {
+                for (int i = 0; i < 1000000; i++)
             {
                 var texto = sr.ReadLine();
                 sw.WriteLine(texto);
@@ -21,6 +31,7 @@ try
         sw.Close();
         contador++;
         sw = new StreamWriter(newPath + contador.ToString() + ".csv");
+            }
         }
     }
 }
